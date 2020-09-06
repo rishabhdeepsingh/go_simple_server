@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/rishabhdeepsingh/go_simple_server/controllers"
+	"github.com/rishabhdeepsingh/go_simple_service/controllers"
 	"net/http"
 )
 

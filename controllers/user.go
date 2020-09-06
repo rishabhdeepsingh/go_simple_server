@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"github.com/rishabhdeepsingh/go_simple_server/models"
+	"github.com/rishabhdeepsingh/go_simple_service/models"
 	"net/http"
 	"regexp"
 	"strconv"
