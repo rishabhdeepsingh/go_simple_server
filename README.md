@@ -1,4 +1,4 @@
-## Simple http server using golang
+## Simple http service using golang
 
 ```go
 type User struct {
@@ -11,7 +11,7 @@ type User struct {
 ## Docker
 
 ### Build Using
-`docker build -t go_simple_server .`
+`docker build -t go_simple_service .`
 
 ### Run using
-`docker run --publish 3000:3000 --name simple_server --rm go_simple_server`
+`docker run --publish 3000:3000 --name simple_service --rm go_simple_service`
